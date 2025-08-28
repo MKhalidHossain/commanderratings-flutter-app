@@ -62,7 +62,7 @@ Based on the project scope and name, the app likely includes:
   - List views with commander ratings  
 
 - **State Management**  
-  - Provider / Riverpod / Bloc for managing real-time updates  
+  - GetX for managing real-time updates  
 
 - **Backend Support (future)**  
   - REST APIs or Firebase for persistent data  
